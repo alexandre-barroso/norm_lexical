@@ -1,0 +1,8 @@
+{
+  "original": {
+    "script_sha256": "a2c876fa1efb5ad101c29727b4567a97ba87d1a15036c4d3ab7735093b603dd4",
+    "test_sha256": "4afc126d90d793eeff1291562a527313addb17ecd5318f498d55812a7a5ad2ff"
+  },
+  "portable_script_sha256": "55dd2555f121d16f19d72fa8e53cde76824f7987d51fb3b6e2e4cc0c8e7b2663",
+  "changes": "Input/output path configuration, portable runtime import, reproduction-run provenance in place of the original pre-experiment freeze, output status label, directory creation. No parsing, eligibility, grouping, prediction, fitting, seed, summary or test changes."
+}

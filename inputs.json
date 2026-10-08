@@ -1,0 +1,26 @@
+{
+  "news_train": {
+    "file": "pt_porttinari-ud-train.conllu",
+    "sha256": "b685d552f23dd0155072b11b1282d6e52dc7f4b57f335cc3486be23ef68c4ead",
+    "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Portuguese-Porttinari/87a07e1fb761d6d0a6e2a4d82b11b308344dabb9/pt_porttinari-ud-train.conllu",
+    "license": "CC BY 4.0; consult the upstream repository notices"
+  },
+  "news_dev": {
+    "file": "pt_porttinari-ud-dev.conllu",
+    "sha256": "208483e5f5a29a0f6b6e0fc1f6e6499a10a5f5cbde53fdad20b30bf146a9e316",
+    "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Portuguese-Porttinari/87a07e1fb761d6d0a6e2a4d82b11b308344dabb9/pt_porttinari-ud-dev.conllu",
+    "license": "CC BY 4.0; consult the upstream repository notices"
+  },
+  "tweets_train": {
+    "file": "pt_dantestocks-ud-train.conllu",
+    "sha256": "43a4791e6502d3b1bcdefc36c6ad5a133c0d4569dd20d34c0a9bf4913d38f07d",
+    "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Portuguese-DANTEStocks/4268e8e1b2c95708136e34f38b8e8af96de86dd2/pt_dantestocks-ud-train.conllu",
+    "license": "CC BY 4.0; consult the upstream repository notices"
+  },
+  "tweets_dev": {
+    "file": "pt_dantestocks-ud-dev.conllu",
+    "sha256": "729bafef6f73d21b3c6115fee354d2a978e553cd2253ba4b6cb93bfee3aebfbc",
+    "url": "https://raw.githubusercontent.com/UniversalDependencies/UD_Portuguese-DANTEStocks/4268e8e1b2c95708136e34f38b8e8af96de86dd2/pt_dantestocks-ud-dev.conllu",
+    "license": "CC BY 4.0; consult the upstream repository notices"
+  }
+}

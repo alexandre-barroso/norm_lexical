@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "field": "CorrectForm",
+      "seed": 7,
+      "focal_net": 10,
+      "nonfocal_net": -3,
+      "total_net": 7
+    },
+    {
+      "field": "CorrectForm",
+      "seed": 23,
+      "focal_net": 5,
+      "nonfocal_net": -6,
+      "total_net": -1
+    },
+    {
+      "field": "CorrectForm",
+      "seed": 47,
+      "focal_net": 7,
+      "nonfocal_net": -2,
+      "total_net": 5
+    },
+    {
+      "field": "FullForm",
+      "seed": 7,
+      "focal_net": 14,
+      "nonfocal_net": 0,
+      "total_net": 14
+    },
+    {
+      "field": "FullForm",
+      "seed": 23,
+      "focal_net": 15,
+      "nonfocal_net": -1,
+      "total_net": 14
+    },
+    {
+      "field": "FullForm",
+      "seed": 47,
+      "focal_net": 15,
+      "nonfocal_net": -1,
+      "total_net": 14
+    }
+  ],
+  "alt_text": "No regime conjunto, CorrectForm tem saldos focais 10, 5 e 7 e saldos totais 7, menos 1 e 5. FullForm tem saldos focais 14, 15 e 15 e saldos totais 14, 14 e 14. Cada ponto representa uma semente fixa; as linhas ligam medidas da mesma execução e não são intervalos de confiança.",
+  "author": "Alexandre Menezes Barroso"
+}
