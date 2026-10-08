@@ -1,6 +1,6 @@
 # Utilidade gramatical localizada de intervenções lexicais
 
-Código de reprodução do estudo com DANTEStocks e Porttinari. O experimento substitui uma única forma por um alvo CorrectForm ou FullForm fornecido pela anotação, conserva o restante da entrada e compara as previsões UPOS focais e não focais. Não implementa um normalizador nem uma avaliação de compreensão ou preservação discursiva. **OBSERVAÇÃO: O arquivo CITATION.cff não encontra-se no repositório para fins de anonimato durante revisão por pares.**
+Código de reprodução do estudo com DANTEStocks e Porttinari. O experimento substitui uma única forma por um alvo CorrectForm ou FullForm fornecido pela anotação, conserva o restante da entrada e compara as previsões UPOS focais e não focais. Não implementa um normalizador nem uma avaliação de compreensão ou preservação discursiva. 
 
 ## Ambiente e verificação
 
