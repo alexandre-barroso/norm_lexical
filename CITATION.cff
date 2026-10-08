@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite the associated manuscript and the version of these research materials used."
+title: "Utilidade gramatical localizada de intervenções lexicais"
+type: software
+authors:
+  - family-names: Barroso
+    given-names: Alexandre Menezes
+    orcid: "https://orcid.org/0009-0005-2794-767X"
